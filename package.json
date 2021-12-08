@@ -1,0 +1,22 @@
+{
+  "name": "appsalareuniao",
+  "version": "1.0.0",
+  "description": "App de reservas de salas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guizore/appSalaReuniao.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guizore/appSalaReuniao/issues"
+  },
+  "homepage": "https://github.com/guizore/appSalaReuniao#readme",
+  "dependencies": {
+    "mysql2": "^2.3.3"
+  }
+}
